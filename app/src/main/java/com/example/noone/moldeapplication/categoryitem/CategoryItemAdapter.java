@@ -169,7 +169,7 @@ public class CategoryItemAdapter extends RecyclerView.Adapter<CategoryItemAdapte
                     mDoneView.setVisibility(View.GONE);
                     mUnDoneView.setVisibility(View.GONE);
 
-                    if (System.currentTimeMillis() - clickTimeInMillis > 0 && System.currentTimeMillis() - clickTimeInMillis < 300) {
+                    if (System.currentTimeMillis() - clickTimeInMillis > 0 && System.currentTimeMillis() - clickTimeInMillis < 200) {
                         mCategoryItemCallback.OnItemClick(mCategoryItemModel);
                     }
 
