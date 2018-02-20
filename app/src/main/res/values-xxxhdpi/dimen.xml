@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">28dp</dimen>
+
+    <!--category screen-->
+    <dimen name="toolbar_left_button_size">32dp</dimen>
+    <dimen name="category_screen_padding_top">16dp</dimen>
+    <dimen name="category_screen_padding_bottom">16dp</dimen>
+    <dimen name="category_title_margin_left">16dp</dimen>
+    <dimen name="category_title_margin_right">16dp</dimen>
+    <dimen name="category_sub_title_margin_top">4dp</dimen>
+    <dimen name="category_sub_title_margin_left">16dp</dimen>
+    <dimen name="category_sub_title_margin_right">16dp</dimen>
+    <dimen name="category_title_text_size">20sp</dimen>
+    <dimen name="category_sub_title_text_size">20sp</dimen>
+    <dimen name="add_category_padding_left">20dp</dimen>
+    <dimen name="add_category_padding_right">20dp</dimen>
+    <dimen name="add_category_title_text_size">24sp</dimen>
+    <dimen name="add_category_error_text_size">20sp</dimen>
+    <dimen name="add_category_bottom_button_margin_top">60dp</dimen>
+    <dimen name="add_category_cancel_tv_text_size">20sp</dimen>
+    <dimen name="add_category_cancel_tv_padding_left">16sp</dimen>
+    <dimen name="add_category_cancel_tv_padding_right">16sp</dimen>
+    <dimen name="add_category_add_tv_text_size">20sp</dimen>
+    <dimen name="add_category_add_tv_padding_left">16sp</dimen>
+    <dimen name="add_category_add_tv_padding_right">16sp</dimen>
+    <dimen name="category_item_image_size">48dp</dimen>
+    <dimen name="category_item_detail_image_size">268dp</dimen>
+    <dimen name="category_item_detail_add_photo_padding_top">20dp</dimen>
+    <dimen name="category_item_detail_add_photo_padding_bottom">20dp</dimen>
+    <dimen name="category_item_detail_title_margin_top">16dp</dimen>
+    <dimen name="category_item_detail_title_margin_left">16dp</dimen>
+    <dimen name="category_item_detail_title_margin_right">16dp</dimen>
+    <dimen name="category_item_detail_toggle_margin_top">16dp</dimen>
+    <dimen name="category_item_done_undone_size">68dp</dimen>
+    <dimen name="category_item_done_undone_padding_top">28dp</dimen>
+    <dimen name="category_item_done_undone_padding_bottom">28dp</dimen>
+</resources>

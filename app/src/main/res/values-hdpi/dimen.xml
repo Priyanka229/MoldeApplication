@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">11dp</dimen>
+
+    <!--category screen-->
+    <dimen name="toolbar_left_button_size">12dp</dimen>
+    <dimen name="category_screen_padding_top">6dp</dimen>
+    <dimen name="category_screen_padding_bottom">6dp</dimen>
+    <dimen name="category_title_margin_left">6dp</dimen>
+    <dimen name="category_title_margin_right">6dp</dimen>
+    <dimen name="category_sub_title_margin_top">2dp</dimen>
+    <dimen name="category_sub_title_margin_left">6dp</dimen>
+    <dimen name="category_sub_title_margin_right">6dp</dimen>
+    <dimen name="category_title_text_size">15sp</dimen>
+    <dimen name="category_sub_title_text_size">6sp</dimen>
+    <dimen name="add_category_padding_left">8dp</dimen>
+    <dimen name="add_category_padding_right">8dp</dimen>
+    <dimen name="add_category_title_text_size">9sp</dimen>
+    <dimen name="add_category_error_text_size">8sp</dimen>
+    <dimen name="add_category_bottom_button_margin_top">23dp</dimen>
+    <dimen name="add_category_cancel_tv_text_size">8sp</dimen>
+    <dimen name="add_category_cancel_tv_padding_left">6sp</dimen>
+    <dimen name="add_category_cancel_tv_padding_right">6sp</dimen>
+    <dimen name="add_category_add_tv_text_size">8sp</dimen>
+    <dimen name="add_category_add_tv_padding_left">6sp</dimen>
+    <dimen name="add_category_add_tv_padding_right">6sp</dimen>
+    <dimen name="category_item_image_size">18dp</dimen>
+    <dimen name="category_item_detail_image_size">101dp</dimen>
+    <dimen name="category_item_detail_add_photo_padding_top">8dp</dimen>
+    <dimen name="category_item_detail_add_photo_padding_bottom">8dp</dimen>
+    <dimen name="category_item_detail_title_margin_top">6dp</dimen>
+    <dimen name="category_item_detail_title_margin_left">6dp</dimen>
+    <dimen name="category_item_detail_title_margin_right">6dp</dimen>
+    <dimen name="category_item_detail_toggle_margin_top">6dp</dimen>
+    <dimen name="category_item_done_undone_size">26dp</dimen>
+    <dimen name="category_item_done_undone_padding_top">11dp</dimen>
+    <dimen name="category_item_done_undone_padding_bottom">11dp</dimen>
+</resources>

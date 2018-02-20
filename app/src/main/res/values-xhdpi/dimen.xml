@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">14dp</dimen>
+
+    <!--category screen-->
+    <dimen name="toolbar_left_button_size">16dp</dimen>
+    <dimen name="category_screen_padding_top">8dp</dimen>
+    <dimen name="category_screen_padding_bottom">8dp</dimen>
+    <dimen name="category_title_margin_left">8dp</dimen>
+    <dimen name="category_title_margin_right">8dp</dimen>
+    <dimen name="category_sub_title_margin_top">2dp</dimen>
+    <dimen name="category_sub_title_margin_left">8dp</dimen>
+    <dimen name="category_sub_title_margin_right">8dp</dimen>
+    <dimen name="category_title_text_size">10sp</dimen>
+    <dimen name="category_sub_title_text_size">8sp</dimen>
+    <dimen name="add_category_padding_left">10dp</dimen>
+    <dimen name="add_category_padding_right">10dp</dimen>
+    <dimen name="add_category_title_text_size">18sp</dimen>
+    <dimen name="add_category_error_text_size">10sp</dimen>
+    <dimen name="add_category_bottom_button_margin_top">30dp</dimen>
+    <dimen name="add_category_cancel_tv_text_size">10sp</dimen>
+    <dimen name="add_category_cancel_tv_padding_left">8sp</dimen>
+    <dimen name="add_category_cancel_tv_padding_right">8sp</dimen>
+    <dimen name="add_category_add_tv_text_size">10sp</dimen>
+    <dimen name="add_category_add_tv_padding_left">8sp</dimen>
+    <dimen name="add_category_add_tv_padding_right">8sp</dimen>
+    <dimen name="category_item_image_size">24dp</dimen>
+    <dimen name="category_item_detail_image_size">134dp</dimen>
+    <dimen name="category_item_detail_add_photo_padding_top">10dp</dimen>
+    <dimen name="category_item_detail_add_photo_padding_bottom">10dp</dimen>
+    <dimen name="category_item_detail_title_margin_top">8dp</dimen>
+    <dimen name="category_item_detail_title_margin_left">8dp</dimen>
+    <dimen name="category_item_detail_title_margin_right">8dp</dimen>
+    <dimen name="category_item_detail_toggle_margin_top">8dp</dimen>
+    <dimen name="category_item_done_undone_size">34dp</dimen>
+    <dimen name="category_item_done_undone_padding_top">14dp</dimen>
+    <dimen name="category_item_done_undone_padding_bottom">14dp</dimen>
+</resources>

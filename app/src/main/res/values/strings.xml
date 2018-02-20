@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoldeApplication</string>
+    <string name="category_text">Categories</string>
+    <string name="category_exists_error_msg">Category already exists</string>
+    <string name="category_item_exists_error_msg">Category Item already exists</string>
+
+    <string name="category_item_done_text">Done</string>
+    <string name="category_item_pending_text">Pending</string>
+    <string name="add_item_text">Add item</string>
+    <string name="edit_item_text">Edit item</string>
+    <string name="category_item_detail_title_hint">Title</string>
+    <string name="category_item_detail_description_hint">Description (optional)</string>
+    <string name="category_item_detail_add_photo_text">ADD PHOTO</string>
+    <string name="category_item_detail_change_photo_text">CHANGE PHOTO</string>
+    <string name="category_item_task_completed_text">Completed</string>
+</resources>

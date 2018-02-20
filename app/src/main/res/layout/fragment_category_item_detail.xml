@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image_iv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/category_item_detail_image_size"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/photo_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/category_item_detail_add_photo_padding_top"
+        android:paddingBottom="@dimen/category_item_detail_add_photo_padding_bottom"
+        android:layout_marginStart="@dimen/category_title_margin_left"
+        android:layout_marginEnd="@dimen/category_title_margin_right"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/category_title_text_size"
+        android:gravity="center"
+        android:text="ADD PHOTO"/>
+
+    <EditText
+        android:id="@+id/title_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:hint="@string/category_item_detail_title_hint"
+        android:layout_marginStart="@dimen/category_item_detail_title_margin_left"
+        android:layout_marginEnd="@dimen/category_item_detail_title_margin_right"/>
+
+    <EditText
+        android:id="@+id/description_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:hint="@string/category_item_detail_description_hint"
+        android:layout_marginTop="@dimen/category_item_detail_title_margin_top"
+        android:layout_marginStart="@dimen/category_item_detail_title_margin_left"
+        android:layout_marginEnd="@dimen/category_item_detail_title_margin_right"/>
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switchButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/category_item_task_completed_text"
+        android:layout_marginTop="@dimen/category_item_detail_toggle_margin_top"
+        android:layout_marginStart="@dimen/category_item_detail_title_margin_left"
+        android:layout_marginEnd="@dimen/category_item_detail_title_margin_right"
+        />
+
+
+
+</LinearLayout>
